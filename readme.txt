@@ -15,15 +15,22 @@ GNU Lesser General Public License for more details.
 You should have received a copy of the GNU Lesser General Public License
 along with "portable_chests". If not, see <http://www.gnu.org/licenses/>.
 
+Media Copyright:
+
+The textures in "portable_chests", with the exception of "default_chest_open.png",
+are © 2024 by Bob64 aka DustyBagel and are licensed under CC BY-SA 4.0.
+To view a copy of this license, visit
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Please note that the "default_chest_open.png" texture is not included in
+this mod and is not created by me and neither are any of the sounds used by this mod.
+They belong to the creators of the default mod included in minetest_game and is
+licensed under their respective license.
+The default mod can be found here:
+https://github.com/minetest/minetest_game/tree/master/mods/default.
+
 Notes about the mod:
 
 I know that the portable chest is a bit over powered because of how cheap it is.
 I would love some player feedback about how I can address this issue which can be 
 added to the issue on github at https://github.com/DustyBagel/portable_chests/issues/1
-
-Acknowledgment:
-
-The default_chest_open texture is from the default mod in minetest_game but is
-not included in this mod. I did not create it. That belongs to the creators of
-the default mod included in minetest_game. The "default" mod can be found here:
-https://github.com/minetest/minetest_game/tree/master/mods/default.
