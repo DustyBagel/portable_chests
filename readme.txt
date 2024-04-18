@@ -19,7 +19,7 @@ Notes about the mod:
 
 I know that the portable chest is a bit over powered because of how cheap it is.
 I would love some player feedback about how I can address this issue which can be 
-added to the issue on github at (Path to issue goes here)
+added to the issue on github at https://github.com/DustyBagel/portable_chests/issues/1
 
 Acknowledgment:
 
