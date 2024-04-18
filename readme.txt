@@ -25,4 +25,5 @@ Acknowledgment:
 
 The default_chest_open texture is from the default mod in minetest_game but is
 not included in this mod. I did not create it. That belongs to the creators of
-the default mod included in minetest_game.
+the default mod included in minetest_game. The "default" mod can be found here:
+https://github.com/minetest/minetest_game/tree/master/mods/default.
