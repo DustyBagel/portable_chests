@@ -205,3 +205,15 @@ minetest.register_craft({
         {"default:tin_ingot", "default:tin_ingot", "default:tin_ingot"}
     }
 })
+
+if minetest.get_modpath("hopper") then
+    hopper:add_container({
+        {"top", "portable_chests:tin_chest", "main"},
+		{"side", "portable_chests:tin_chest", "main"},
+		{"bottom", "portable_chests:tin_chest", "main"},
+
+        {"top", "portable_chests:tin_chest_open", "main"},
+		{"side", "portable_chests:tin_chest_open", "main"},
+		{"bottom", "portable_chests:tin_chest_open", "main"},
+    })
+end
